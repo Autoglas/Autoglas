@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Autoglas, der bundesweite Windschutzscheiben-Wechsel Spezialist.
+- 👋 Hallo, ich bin @Autoglas, der bundesweite Windschutzscheiben-Wechsel Spezialist.
 - 👀 Ich interessiere mich für Frontscheiben, Heckscheiben und Seitenscheiben. Ob Steinschlag oder Riss in der Frontscheibe, unsere Autoglas-Spezialisten kommen zu Ihnen vor Ort.
 - 🌱 Ich lerne zur Zeit wie man coded, starke Webseiten in der Kfz-Branche designed und wie man Kundenerfahrungen optimiert.
 - 💞️ I’m looking to collaborate on new website ideas
